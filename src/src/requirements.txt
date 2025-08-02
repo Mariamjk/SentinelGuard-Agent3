@@ -1,0 +1,6 @@
+gradio
+fpdf
+openai
+strands
+strands-tools
+
